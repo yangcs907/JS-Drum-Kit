@@ -1,3 +1,4 @@
-*Interactive Web App
-*Drum kit simulator using ES6
-*Simply press keys to play
+## JS Drum Kit
+
+- Interactive drum simulator using ES6
+- Just press keys to play
